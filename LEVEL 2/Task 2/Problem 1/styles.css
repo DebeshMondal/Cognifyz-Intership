@@ -57,7 +57,7 @@ footer {
     }
 
     .image img {
-        width: 300px; /* Adjust width to make the image smaller */
+        width: 100%;
         height: auto;
     }
 }
@@ -74,7 +74,7 @@ footer {
     }
 
     .image img {
-        width: 80%; /* Adjust width to make the image smaller on medium screens */
+        width: 100%;
         height: auto;
     }
 }
@@ -93,7 +93,7 @@ footer {
     }
 
     .image img {
-        width: 60%; /* Adjust width to make the image smaller on small screens */
+        width: 100%;
         height: auto;
     }
 }
